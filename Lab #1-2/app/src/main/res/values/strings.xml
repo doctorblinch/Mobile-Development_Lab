@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="order">Order</string>
+    <string name="input_flower_name">Input flower name</string>
+    <string name="default_flower">Rose</string>
+
+    <string-array name="flowers_colors">
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Blue</item>
+        <item>Purple</item>
+        <item>Best color</item>
+    </string-array>
+
+    <string-array name="flowers_prices">
+        <item>100-200</item>
+        <item>200-300</item>
+        <item>300-500</item>
+        <item>500+</item>
+    </string-array>
+
+
+    <string name="hello_blank_fragment">Your last order was:</string>
+    <string name="default_prev_order">No previous orders found.</string>
+
+
+</resources>
