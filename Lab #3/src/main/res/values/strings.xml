@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="order">Order</string>
+    <string name="input_flower_name">Input flower name</string>
+    <string name="default_flower">Rose</string>
+
+    <string-array name="flowers_colors">
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Blue</item>
+        <item>Purple</item>
+        <item>Best color</item>
+    </string-array>
+
+    <string-array name="flowers_prices">
+        <item>100-200</item>
+        <item>200-300</item>
+        <item>300-500</item>
+        <item>500+</item>
+    </string-array>
+
+
+    <string name="hello_blank_fragment">Your last order was:</string>
+    <string name="default_prev_order">No previous orders found.</string>
+    <string name="db_name">app.db</string>
+    <string name="create_table">CREATE TABLE IF NOT EXISTS %s (%s, %s)</string>
+    <string name="color_column_name">color_name</string>
+    <string name="price_column_name">price</string>
+    <string name="records_table_name">records</string>
+    <string name="delete_from_table">DELETE FROM %s</string>
+    <string name="select_all_from_table">SELECT rowid, * FROM %s</string>
+    <string name="empty_table_msg">Sorry the DB is empty!\nFill it please!</string>
+    <string name="clear">Clear</string>
+    <string name="insert">Insert</string>
+    <string name="show_all">Show all</string>
+    <string name="db_records">DB records:</string>
+
+
+</resources>
