@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab #4</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="flowers_colors">
+        <item>Video</item>
+        <item>Audio</item>
+    </string-array>
+
+</resources>
